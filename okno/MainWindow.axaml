@@ -7,6 +7,7 @@
         CanResize="False"
         WindowState="Maximized"
         FontSize="32"
+        FontWeight="Bold"
         WindowStartupLocation="CenterScreen"
         
         Title="Spoko fajna stronka">
