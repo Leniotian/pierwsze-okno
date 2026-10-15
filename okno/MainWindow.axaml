@@ -9,6 +9,5 @@
         WindowStartupLocation="CenterScreen"
         
         Title="Spoko fajna stronka">
-        
-    Mega spoko super
+        <TextBlock Text="mega super stronka" />
 </Window>
