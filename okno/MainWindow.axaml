@@ -8,6 +8,7 @@
         WindowState="Maximized"
         FontSize="32"
         FontWeight="Bold"
+         FontStyle="Italic"
         WindowStartupLocation="CenterScreen"
         
         Title="Spoko fajna stronka">
