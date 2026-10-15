@@ -6,6 +6,8 @@
         x:Class="okno.MainWindow"
         CanResize="False"
         WindowState="Maximized"
+        HorizontalAlignment="Center"
+        VerticalAlignment="Center"
         FontSize="32"
         Foreground="#8eacbaff"
         Background="#FFF3C4"
