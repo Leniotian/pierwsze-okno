@@ -6,6 +6,7 @@
         x:Class="okno.MainWindow"
         CanResize="False"
         WindowState="Maximized"
+        FontSize="32"
         WindowStartupLocation="CenterScreen"
         
         Title="Spoko fajna stronka">
