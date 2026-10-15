@@ -9,7 +9,7 @@
         HorizontalAlignment="Center"
         VerticalAlignment="Center"
         FontSize="32"
-        Foreground="#8eacbaff"
+        Foreground="#8EACBA"
         Background="#FFF3C4"
         FontWeight="Bold"
          FontStyle="Italic"
