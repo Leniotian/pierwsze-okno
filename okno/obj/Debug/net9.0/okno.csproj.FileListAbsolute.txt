@@ -89,3 +89,4 @@ C:\Users\bobryk.lena\Desktop\okno_zadanie\okno\obj\Debug\net9.0\refint\okno.dll
 C:\Users\bobryk.lena\Desktop\okno_zadanie\okno\obj\Debug\net9.0\okno.pdb
 C:\Users\bobryk.lena\Desktop\okno_zadanie\okno\obj\Debug\net9.0\okno.genruntimeconfig.cache
 C:\Users\bobryk.lena\Desktop\okno_zadanie\okno\obj\Debug\net9.0\ref\okno.dll
+C:\Users\bobryk.lena\Desktop\okno_zadanie\okno\obj\Debug\net9.0\okno.sourcelink.json
