@@ -7,6 +7,7 @@
         CanResize="False"
         WindowState="Maximized"
         FontSize="32"
+        Foreground="#8eacbaff"
         FontWeight="Bold"
          FontStyle="Italic"
         WindowStartupLocation="CenterScreen"
